@@ -68,7 +68,7 @@ Each project can be downloaded directly from the portfolio.
 
 ## 📸 Preview
 
-> You can add screenshots of your portfolio here to make the repository more attractive.
+https://adityasinnghh.github.io/adi-portfolio/
 
 ---
 
